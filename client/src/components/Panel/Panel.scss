@@ -1,0 +1,22 @@
+#Panel {
+  border-right: 1px solid #b0bbc9;
+  .title {
+    background: linear-gradient(180deg, #00bb83 0%, #1d698f 50%, #3a169c 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: Inter;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+  .menu-item {
+    color: #1a518a;
+    font-family: Inter;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+}

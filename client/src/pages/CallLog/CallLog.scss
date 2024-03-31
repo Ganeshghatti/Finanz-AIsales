@@ -1,0 +1,24 @@
+#CallLog {
+  .CallLog-title {
+    color: #000;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+  }
+  .CallLog-input {
+    border-radius: 8px;
+    border: 1px solid #b8b1ff;
+    background: #f3f2ff;
+    padding: 12px 16px;
+  }
+  .CallLog-label {
+    color: #3a4452;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+  }
+}
